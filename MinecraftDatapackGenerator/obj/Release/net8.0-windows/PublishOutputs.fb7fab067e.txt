@@ -1,0 +1,9 @@
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\MinecraftDatapackGenerator.exe
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\MinecraftDatapackGenerator.dll
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\MinecraftDatapackGenerator.deps.json
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\MinecraftDatapackGenerator.runtimeconfig.json
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\MinecraftDatapackGenerator.pdb
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\System.Drawing.Common.dll
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\System.Private.Windows.Core.dll
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\bin\Release\net8.0-windows\publish\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll

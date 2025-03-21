@@ -1,3 +1,6 @@
+using System.Diagnostics;
+using System.Reflection;
+
 namespace MinecraftDatapackGenerator
 {
     public partial class Form1 : Form
@@ -12,7 +15,7 @@ namespace MinecraftDatapackGenerator
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void selectDestination_MouseClick(object sender, MouseEventArgs e)
@@ -26,8 +29,6 @@ namespace MinecraftDatapackGenerator
             {
                 label3.Text = folderDialogue.SelectedPath + " selected";
                 destination = folderDialogue.SelectedPath;
-
-                MessageBox.Show("For debugging purposes.. " + destination, "Selected Destination Test", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -86,7 +87,12 @@ namespace MinecraftDatapackGenerator
                     }
                     else
                     {
-                        MessageBox.Show("You need to provide a pack format number. Search the web for the latest pack format number?", "No Pack Format Specified", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                        var result = MessageBox.Show("A pack format number is required. Browse the web for the latest pack format number?", "No Pack Format Specified", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
+
+                        if (result.Equals(DialogResult.Yes))
+                        {
+                            Process.Start(new ProcessStartInfo() { FileName = "https://minecraft.fandom.com/wiki/Data_Pack#Pack_format", UseShellExecute = true });
+                        }
                     }
                 }
                 else
@@ -108,7 +114,7 @@ namespace MinecraftDatapackGenerator
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            MessageBox.Show("This would open a link to the GitHub repository, but since I don't have internet at the moment, this leads to nowhere.");
+            Process.Start(new ProcessStartInfo() {FileName = "https://github.com/int3rv4lwastaken/MinecraftDatapackCreationTool/issues/new/choose", UseShellExecute = true});
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)

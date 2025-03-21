@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -27,6 +28,16 @@ namespace MinecraftDatapackGenerator
         private void aboutScreenClose_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Process.Start(new ProcessStartInfo() { FileName = "https://github.com/int3rv4lwastaken/MinecraftDatapackCreationTool/issues/new/choose", UseShellExecute = true });
+        }
+
+        private void strawpageSite_Click(object sender, EventArgs e)
+        {
+            Process.Start(new ProcessStartInfo() { FileName = "https://int3rval.straw.page", UseShellExecute = true });
         }
     }
 }

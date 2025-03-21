@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftDatapackGenerator", "MinecraftDatapackGenerator\MinecraftDatapackGenerator.csproj", "{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}"
 EndProject
@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF5CD7FC-4C79-4473-A427-8D56A1FC654B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

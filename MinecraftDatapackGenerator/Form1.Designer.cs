@@ -117,7 +117,7 @@
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(12, 323);
+            linkLabel1.Location = new Point(12, 324);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(230, 15);
             linkLabel1.TabIndex = 8;
@@ -131,7 +131,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { fileToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(556, 24);
+            menuStrip1.Size = new Size(553, 24);
             menuStrip1.TabIndex = 9;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -145,14 +145,14 @@
             // aboutToolStripMenuItem
             // 
             aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            aboutToolStripMenuItem.Size = new Size(180, 22);
+            aboutToolStripMenuItem.Size = new Size(107, 22);
             aboutToolStripMenuItem.Text = "About";
             aboutToolStripMenuItem.Click += aboutToolStripMenuItem_Click;
             // 
             // closeToolStripMenuItem
             // 
             closeToolStripMenuItem.Name = "closeToolStripMenuItem";
-            closeToolStripMenuItem.Size = new Size(180, 22);
+            closeToolStripMenuItem.Size = new Size(107, 22);
             closeToolStripMenuItem.Text = "Close";
             closeToolStripMenuItem.Click += closeToolStripMenuItem_Click;
             // 
@@ -160,7 +160,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(556, 357);
+            ClientSize = new Size(553, 354);
             Controls.Add(linkLabel1);
             Controls.Add(datapackTagField);
             Controls.Add(packFormatField);
@@ -171,6 +171,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(menuStrip1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             MaximizeBox = false;
             MinimizeBox = false;

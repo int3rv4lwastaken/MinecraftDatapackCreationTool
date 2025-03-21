@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinecraftDatapackGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e6645fe93aad4fd23ff514e30b070fd22f6d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinecraftDatapackGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinecraftDatapackGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

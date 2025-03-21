@@ -15,3 +15,5 @@ C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerato
 C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\obj\Debug\net8.0-windows\MinecraftDatapackGenerator.genruntimeconfig.cache
 C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\obj\Debug\net8.0-windows\ref\MinecraftDatapackGenerator.dll
 C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\obj\Debug\net8.0-windows\MinecraftDatapackGenerator.Form2.resources
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\obj\Debug\net8.0-windows\MinecraftDatapackGenerator.sourcelink.json
+C:\Users\bryce\source\repos\MinecraftDatapackGenerator\MinecraftDatapackGenerator\obj\Debug\net8.0-windows\MinecraftDatapackGenerator.Properties.Resources.resources

@@ -55,6 +55,7 @@
             strawpageSite.TabIndex = 1;
             strawpageSite.Text = "Open Strawpage Website";
             strawpageSite.UseVisualStyleBackColor = true;
+            strawpageSite.Click += strawpageSite_Click;
             // 
             // button1
             // 
@@ -64,6 +65,7 @@
             button1.TabIndex = 2;
             button1.Text = "Report a Bug";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label1
             // 
@@ -100,9 +102,11 @@
             Controls.Add(button1);
             Controls.Add(strawpageSite);
             Controls.Add(aboutScreenClose);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "Form2";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Datapack Creation Tool - About";
             Load += Form2_Load;
             ResumeLayout(false);
