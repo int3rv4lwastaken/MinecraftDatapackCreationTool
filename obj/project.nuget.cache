@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jy91z2qnvK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryce\\source\\repos\\MDCTRevised\\MDCTRevised.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryce\\.nuget\\packages\\system.io.pipelines\\9.0.4\\system.io.pipelines.9.0.4.nupkg.sha512",
+    "C:\\Users\\bryce\\.nuget\\packages\\system.text.encodings.web\\9.0.4\\system.text.encodings.web.9.0.4.nupkg.sha512",
+    "C:\\Users\\bryce\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

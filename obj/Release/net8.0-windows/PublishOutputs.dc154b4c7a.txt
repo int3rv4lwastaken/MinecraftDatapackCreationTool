@@ -1,0 +1,10 @@
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.exe
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.dll
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.deps.json
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.runtimeconfig.json
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.dll.config
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\MDCTRevised.pdb
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\System.IO.Pipelines.dll
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\System.Text.Encodings.Web.dll
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\System.Text.Json.dll
+C:\Users\bryce\source\repos\MDCTRevised\bin\Release\net8.0-windows\publish\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
